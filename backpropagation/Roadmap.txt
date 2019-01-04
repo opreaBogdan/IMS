@@ -1,0 +1,12 @@
+Backend
+   - make everything functional (DONE)
+   - make proper use of databases (probably in our case only the results will be stored database, in the form of tokens)
+   - make a storage persistent system based on tokens (DONE)
+   - think of a persistent way of storing the predictions results (perhaps in the form <key, value> ?). Also depends on how easily frontend can read these datas
+
+Frontend
+   - come up with some good examples of graphics
+   - come up with a good UI/UX
+
+Conceptual
+   - learn how to the AI algorithms work

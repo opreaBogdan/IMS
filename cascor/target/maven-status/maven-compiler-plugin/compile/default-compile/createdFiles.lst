@@ -1,0 +1,10 @@
+ims\algorithms\GA\MyComparator.class
+ims\utils\Utils.class
+ims\algorithms\GA\Evolution.class
+ims\algorithms\CasCor.class
+ims\CasCorPrediction.class
+ims\algorithms\Entities\Algorithm.class
+ims\algorithms\GA\Population.class
+ims\controller\HelloController.class
+ims\algorithms\CasCorP\IOcascor.class
+ims\algorithms\GA\Chromosome.class

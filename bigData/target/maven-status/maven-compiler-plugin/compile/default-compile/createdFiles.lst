@@ -1,0 +1,12 @@
+ims\controller\PredictionJSON.class
+ims\entities\UserEntity.class
+ims\utils\Utils.class
+ims\utils\Constants$ErrorMessages.class
+ims\utils\Constants.class
+ims\PredictionApplication.class
+ims\utils\Constants$SuccessMessages.class
+ims\entities\TimeSeriesInputEntity.class
+ims\controller\Receive.class
+ims\controller\HelloController.class
+ims\repositories\TimeSeriesInputEntityRepository.class
+ims\repositories\UserEntityRepository.class

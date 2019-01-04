@@ -1,0 +1,75 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Predalitics</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+</head>
+
+<body>
+
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top">
+    <a class="navbar-brand" href="index.html">Predalitics</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+                <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="http://example.com" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Generate Graphics</a>
+                <div class="dropdown-menu" aria-labelledby="dropdown01">
+                    <a class="dropdown-item" onclick="location.href='RandomPrediction.html';">Random Prediction</a>
+                    <a class="dropdown-item" onclick="location.href='BackPropagation.html';">Back Propagation</a>
+                    <a class="dropdown-item" onclick="location.href='CasCorP.html';">CasCorP</a>
+                    <a class="dropdown-item" onclick="location.href='EMA.html';">EMA</a>
+                    <a class="dropdown-item" onclick="location.href='Homeostatic.html';">Homeostatic</a>
+                    <a class="dropdown-item" onclick="location.href='TendencyBased.html';">Tendency based</a>
+                    <a class="dropdown-item" onclick="location.href='UnixCPULoadPrediction.html';">UnixCPULoadPrediction</a>
+                    <a class="dropdown-item" onclick="location.href='WMA.html';">WMA</a>
+                </div>
+            </li>
+        </ul>
+    </div>
+</nav>
+
+<main role="main" class="container">
+
+    <blockquote class="blockquote text-center align-middle">
+        <div class = "jumbotron">
+            <h1>Got a token?</h1>
+            <p class="mb-0">You want to see the prediction results of a test?<br/>
+                Please enter your token number below:
+            </p>
+            <form>
+                <div class="form-group">
+                    <input type="text" class="form-control" id="token" placeholder="Token">
+                </div>
+                <button type="submit" class="btn btn-primary" onclick="resultsFromToken()">Show results</button>
+            </form>
+        </div>
+    </blockquote>
+
+</main><!-- /.container -->
+
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
+<script>window.jQuery || document.write('<script src="../../../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+<script src="js/bootstrap.js"></script>
+<script src="my_js.js"></script>
+</body>
+</html>

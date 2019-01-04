@@ -1,0 +1,10 @@
+ims\algorithms\BackPropagation.class
+ims\utils\Utils.class
+ims\algorithms\Entities\Algorithm.class
+ims\utils\Constants$SuccessMessages.class
+ims\utils\Constants$ErrorMessages.class
+ims\BackpropagationPrediction.class
+ims\controller\HelloController.class
+ims\algorithms\Backprop\IObackprop.class
+ims\utils\Constants.class
+ims\algorithms\Algorithms.class
