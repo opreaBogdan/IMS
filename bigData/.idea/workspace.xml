@@ -2,53 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f8965fd-404f-4f14-98a0-cdd3879d1685" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ims/controller/HelloWorldController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ims/controller/PredictionJSON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20171018.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_2_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prediction.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Prediction.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/PredictionApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/PredictionApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Algorithms.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/BackPropagation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Backprop/IObackprop.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Backprop/backprop.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Backprop/backup.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/CasCor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/CasCorP/IOcascor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/CasCorP/cascor.backup" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/CasCorP/cascor.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/CasCorP/cascor.mem.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/EMA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Entities/Algorithm.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Entities/Dtos/BasicAnalyticsDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Entities/Dtos/PredictedSeriesDto.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Entities/PredictedSeries.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/GA/Chromosome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/GA/Evolution.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/GA/MyComparator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/GA/Population.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Homeostatic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Parsers/ARFFAttribute.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Parsers/ARFFFormat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Parsers/ARFFParameters.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Parsers/ARFFParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Parsers/PlainParser.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/RandomPrediction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/Tendency_based.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/UnixCPULoadPrediction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/algorithms/WMA.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/bigdata/controller/HelloWorldController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/bigdata/controller/Receive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/controller/Receive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/bigdata/controller/StatisticsJSON.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/entities/TimeSeriesInputEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/entities/TimeSeriesInputEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/entities/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/entities/UserEntity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/repositories/TimeSeriesInputEntityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/repositories/TimeSeriesInputEntityRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/repositories/UserEntityRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/repositories/UserEntityRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/utils/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/utils/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bigdata/utils/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ims/utils/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/my_js.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/static/my_js.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analytics/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../analytics/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../analytics/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../analytics/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -80,15 +37,16 @@
     <session id="1470753208">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="10" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -128,8 +86,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ims/controller/HelloWorldController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="351">
-              <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
+            <state relative-caret-position="334">
+              <caret line="130" column="1" lean-forward="true" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -137,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/my_js.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="268" column="55" lean-forward="true" selection-start-line="268" selection-start-column="55" selection-end-line="268" selection-end-column="55" />
+            <state relative-caret-position="4556">
+              <caret line="268" column="55" selection-start-line="268" selection-start-column="55" selection-end-line="268" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -226,7 +184,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -267,16 +225,17 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="951" />
-    <option name="width" value="978" />
-    <option name="height" value="1039" />
+    <option name="x" value="950" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,11 +307,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../analytics" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -427,9 +387,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.08859061" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15838926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -441,31 +400,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32907802" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932885" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.28255033" side_tool="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932885" weight="0.32907802" />
-      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49731544" weight="0.32907802" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" weight="0.08255033" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08859061" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="UI Designer" order="3" />
-      <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.71744967" visible="true" weight="0.32907802" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49932885" weight="0.32907802" />
-      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49932885" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" sideWeight="0.49932885" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.28255033" side_tool="true" visible="true" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49932885" weight="0.32907802" />
       <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.49731544" weight="0.32907802" />
@@ -474,11 +409,17 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.08255033" />
-    </layout-to-restore>
+      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.08187919" />
+    </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/bigdata/algorithms/Entities/Algorithm.java" />
@@ -501,6 +442,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
           <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ims/controller/HelloWorldController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="130" column="1" lean-forward="true" selection-start-line="130" selection-start-column="1" selection-end-line="130" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/my_js.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4556">
+          <caret line="268" column="55" selection-start-line="268" selection-start-column="55" selection-end-line="268" selection-end-column="55" />
         </state>
       </provider>
     </entry>
@@ -557,20 +512,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/static/my_js.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="268" column="55" lean-forward="true" selection-start-line="268" selection-start-column="55" selection-end-line="268" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ims/controller/HelloWorldController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="131" lean-forward="true" selection-start-line="131" selection-end-line="131" />
         </state>
       </provider>
     </entry>

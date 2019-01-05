@@ -1,4 +1,4 @@
-bigdata\algorithms\Homeostatic.class
-bigdata\utils\Utils.class
-bigdata\HomeostaticPrediction.class
-bigdata\bigdata\controller\HelloController.class
+ims\algorithms\Homeostatic.class
+ims\utils\Utils.class
+ims\controller\HelloController.class
+ims\HomeostaticPrediction.class

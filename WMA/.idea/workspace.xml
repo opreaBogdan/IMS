@@ -391,11 +391,11 @@
       </method>
     </configuration>
     <configuration name="WMAPrediction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bigdata.WMAPrediction" />
+      <option name="MAIN_CLASS_NAME" value="ims.WMAPrediction" />
       <module name="Prediction" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="bigdata.*" />
+          <option name="PATTERN" value="ims.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
